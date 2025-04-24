@@ -1,0 +1,6 @@
+LINPACK benchmark input file
+5                     # number of tests
+10000 20000 30000 50000 70000 # problem sizes
+10000 20000 30000 50000 70000 # leading dimensions
+3 3 2 2 1             # times to run a test
+4 4 4 4 4             # alignment values (in KBytes)
